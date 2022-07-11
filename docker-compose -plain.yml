@@ -9,7 +9,3 @@ services:
       - 1521:1521
     environment:
       ORACLE_PASSWORD: root
-      ORACLE_DATABASE: eis
-      APP_USER: dbuser
-      APP_USER_PASSWORD: dbuser
-
